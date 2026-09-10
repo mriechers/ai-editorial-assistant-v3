@@ -1,3 +1,14 @@
+> [!WARNING]
+> **Archived legacy codebase — not maintained, not installable.**
+>
+> `ai-editorial-assistant` was superseded by **Cardigan**. This branch exists only to preserve
+> the original source and its full commit history; it receives no fixes,
+> no releases, and no support. Nothing here is wired into the active plugin.
+>
+> For working code, see the `main` branch of this repository.
+
+---
+
 # PBS Wisconsin Video Editorial Assistant
 
 An AI-powered system prompt for transforming video transcripts into SEO-optimized metadata for streaming platforms.
